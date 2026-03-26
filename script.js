@@ -20,3 +20,7 @@ console.log(a * b);  // multiplication
 console.log(a / b);  // division
 console.log(a % b);  // remainder
 console.log(a ** b); // power
+
+console.log(a++); // use then increase
+console.log(a);
+console.log(++a); // increase then use
