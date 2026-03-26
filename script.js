@@ -24,3 +24,10 @@ console.log(a ** b); // power
 console.log(a++); // use then increase
 console.log(a);
 console.log(++a); // increase then use
+
+console.log(2 & 5);   // AND
+console.log(2 | 5);   // OR
+console.log(~0);      // NOT
+console.log(2 ^ 2);   // XOR
+console.log(5 << 1);  // left shift
+console.log(10 >> 1); // right shift
